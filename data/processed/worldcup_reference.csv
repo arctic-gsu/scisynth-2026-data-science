@@ -1,0 +1,14 @@
+type,name,match_id,date,kickoff_local,round,lat,lon
+match,Spain vs Cabo Verde,ATL-01,2026-06-15,12:00,Group H,33.7553,-84.4006
+match,Czechia/Playoff winner vs South Africa,ATL-02,2026-06-18,12:00,Group A,33.7553,-84.4006
+match,Spain vs Saudi Arabia,ATL-03,2026-06-21,12:00,Group H,33.7553,-84.4006
+match,Morocco vs Haiti,ATL-04,2026-06-24,18:00,Group C,33.7553,-84.4006
+match,DR Congo vs Uzbekistan,ATL-05,2026-06-27,19:30,Group Stage,33.7553,-84.4006
+match,TBD vs TBD,ATL-06,2026-07-01,12:00,Round of 32,33.7553,-84.4006
+match,TBD vs TBD,ATL-07,2026-07-07,12:00,Round of 16,33.7553,-84.4006
+match,TBD vs TBD,ATL-08,2026-07-15,15:00,Semifinal,33.7553,-84.4006
+stadium,Mercedes-Benz Stadium,,,,,33.7553,-84.4006
+fan_fest,Centennial Olympic Park (Fan Fest),,,,,33.7607,-84.3931
+hotel_cluster,Downtown Atlanta,,,,,33.7537,-84.3901
+hotel_cluster,Midtown Atlanta,,,,,33.7845,-84.3832
+hotel_cluster,Buckhead,,,,,33.8384,-84.3793
