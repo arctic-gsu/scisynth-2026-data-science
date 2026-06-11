@@ -1,0 +1,10 @@
+mode_share_scenario,capacity_scenario,demand_riders,rail_capacity_riders,gap_riders,verdict
+low,seated_only,11250,13920,2670,SURPLUS
+low,service_standard,11250,24000,12750,SURPLUS
+low,full_crush,11250,45000,33750,SURPLUS
+central,seated_only,16500,13920,-2580,DEFICIT
+central,service_standard,16500,24000,7500,SURPLUS
+central,full_crush,16500,45000,28500,SURPLUS
+high,seated_only,26250,13920,-12330,DEFICIT
+high,service_standard,26250,24000,-2250,DEFICIT
+high,full_crush,26250,45000,18750,SURPLUS
